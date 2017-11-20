@@ -1,6 +1,7 @@
 # AddSelector
 联动地址选择
-###数据来源：
-* [国家统计局 - 县及县以上行政区划代码](http://www.stats.gov.cn/was5/web/search?channelid=288041&andsen=%E5%8E%BF%E5%8F%8A%E5%8E%BF%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81)
-* ~~[时间：2015.04.15 15:11:12](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201504/t20150415_712722.html)~~
-* [最新时间：2016.08.09 11:32:54](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201608/t20160809_1386477.html)
+### 数据来源：
+* [国家统计局 - 县及县以上行政区划代码](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm)
+* ~~[统计截至时间：2014.10.31 发布时间：2015.04.15 15:11:12](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201504/t20150415_712722.html)~~
+* ~~[统计截至时间：2015.9.30 发布时间：2016.08.09 11:32:54](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201504/t20150415_712722.html)~~
+* [最新统计时间：2016.7.31 发布时间：2017-03-10 10:33](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201608/t20160809_1386477.html)
