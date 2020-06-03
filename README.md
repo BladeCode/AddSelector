@@ -12,4 +12,5 @@
 * ~~[统计截至时间：2015-09-30 发布时间：2016-07-27](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2015/index.html)~~
 * ~~[统计截至时间：2016-07-31 发布时间：2017-05-16](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html)~~
 * ~~[统计截至时间：2017-10-31 发布时间：2018-06-20](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html)~~
-* [最新统计截至时间：2018-10-31 发布时间：2019-01-31](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html)
+* ~~[统计截至时间：2018-10-31 发布时间：2019-01-31](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html)~~
+* [最新统计截至时间：2019-10-31 发布时间：2020-02-25](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html)
