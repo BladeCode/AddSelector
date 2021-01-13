@@ -1,3 +1,6 @@
+# -*- encoding: utf-8 -*-
+# 数据来源：中华人民共和国民政部
+
 import requests
 from bs4 import BeautifulSoup
 
