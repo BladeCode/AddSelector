@@ -39,10 +39,12 @@ AddSelector/
 * ~~[统计截至时间：2016-07-31 发布时间：2017-05-16](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html)~~
 * ~~[统计截至时间：2017-10-31 发布时间：2018-06-20](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html)~~
 * ~~[统计截至时间：2018-10-31 发布时间：2019-01-31](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html)~~
-* [最新统计截至时间：2019-10-31 发布时间：2020-02-25](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html)
+* ~~[统计截至时间：2019-10-31 发布时间：2020-02-25](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html)~~
+* [最新统计截至时间：2020-06-30 发布时间：2020-11-06](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/index.html)
 
 #### 民政部
 
+>[中华人民共和国乡镇行政区划简册勘误-2016](http://www.mca.gov.cn/article/sj/xzqh/jckw/)
 * ~~[1980年中华人民共和国行政区划代码（截止1980年12月31日）](http://www.mca.gov.cn/article/sj/tjbz/a/201713/201708040959.html)~~
 * ~~[1981年中华人民共和国行政区划代码（截止1981年12月31日）](http://www.mca.gov.cn/article/sj/tjbz/a/201713/201708041004.html)~~
 * ~~[1982年中华人民共和国行政区划代码（截止1982年12月31日）](http://www.mca.gov.cn/article/sj/xzqh/1980/1980/201911180942.html)~~
